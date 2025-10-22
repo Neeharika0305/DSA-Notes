@@ -1,2 +1,2 @@
 # DSA-Notes
-Collection of Data Structures and Algorithms notes and programs. Includes important concepts, explanations, and practice codes for arrays, linked lists, stacks, queues, trees, graphs, sorting, searching, and more.
+Collection of Data Structures and Algorithms programs implemented in C. Covers arrays, linked lists, stacks, queues, trees, graphs, sorting, searching, and other core topics for mastering DSA.
